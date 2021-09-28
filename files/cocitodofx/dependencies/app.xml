@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1632839537011" uri="https://finsther.github.io/files/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1632863919024" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="3380133909" size="94267"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -18,7 +18,8 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.0-build-219030_1.jar" checksum="2650058432" size="3737625"/>
+    <lib file="cocitodoFX-1.0-build-219030_1.jar" checksum="35540609" size="3740929"/>
+    <lib file="cocitodoFX.jar" checksum="899360396" size="43097"/>
     <lib file="commons-beanutils.jar" checksum="1820030648" size="188671"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
