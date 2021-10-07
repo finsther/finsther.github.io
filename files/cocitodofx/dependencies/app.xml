@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1633190883867" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
-    <lib file="AnimateFX.jar" checksum="3380133909" size="94267"/>
+<Application ts="1633641193923" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+    <lib file="AnimateFX.jar" checksum="4278231058" size="96551"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
     <lib file="batik-bridge.jar" checksum="560058553" size="703757"/>
@@ -18,18 +18,17 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.0-build-211002_1.jar" checksum="3200795499" size="3747711"/>
-    <lib file="commons-beanutils.jar" checksum="1820030648" size="188671"/>
+    <lib file="cocitodoFX-1.0-build-211007_1.jar" checksum="2556687572" size="3758168"/>
+    <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
-    <lib file="commons-collections4.jar" checksum="1082164994" size="752798"/>
+    <lib file="commons-collections4.jar" checksum="1165026778" size="751914"/>
     <lib file="commons-digester.jar" checksum="2702119393" size="196768"/>
     <lib file="commons-io.jar" checksum="2135154044" size="83613"/>
-    <lib file="commons-lang3.jar" checksum="3615729860" size="501879"/>
+    <lib file="commons-lang3.jar" checksum="4181716273" size="587402"/>
     <lib file="commons-logging.jar" checksum="2486592504" size="60686"/>
-    <lib file="commons-text.jar" checksum="2870153426" size="182954"/>
-    <lib file="controlsfx.jar" checksum="2602159786" size="1402490"/>
-    <lib file="DynamicJasper.jar" checksum="1563886246" size="396012"/>
+    <lib file="commons-text.jar" checksum="2032296454" size="216211"/>
+    <lib file="controlsfx.jar" checksum="2493090305" size="1436095"/>
     <lib file="ecj.jar" checksum="4281725885" size="2989263"/>
     <lib file="fontawesomefx-commons.jar" checksum="2467533091" size="20957"/>
     <lib file="fontawesomefx-emojione.jar" checksum="1609132394" size="3642164"/>
@@ -43,10 +42,10 @@
     <lib file="javax.mail.jar" checksum="2047441797" size="659031"/>
     <lib file="jfoenix.jar" checksum="1362657171" size="2710207"/>
     <lib file="log4j.jar" checksum="1818032796" size="489884"/>
-    <lib file="mysql-connector-java.jar" checksum="3907554672" size="2321813"/>
-    <lib file="opencsv.jar" checksum="3884573286" size="170348"/>
+    <lib file="mysql-connector-java.jar" checksum="276365613" size="2462364"/>
+    <lib file="opencsv.jar" checksum="2895834421" size="235612"/>
     <lib file="poi.jar" checksum="3281112652" size="2701171"/>
-    <lib file="protobuf-java.jar" checksum="432467461" size="1421323"/>
+    <lib file="protobuf-java.jar" checksum="2771830397" size="1660960"/>
     <lib file="report-custom-fonts.jar" checksum="548259507" size="3427634"/>
     <lib file="slf4j-api.jar" checksum="4018678190" size="41071"/>
     <lib file="slf4j-simple.jar" checksum="1511922547" size="10905"/>
@@ -57,7 +56,7 @@
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
     <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
     <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
-    <parameters>1.0-build-211002_1 --myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <parameters>1.0-build-211007_1 --myOption=myValue --myOtherOption=myOtherValue</parameters>
     <cacheDir>USERLIB/CocitodoFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
