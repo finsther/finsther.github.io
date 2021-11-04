@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<<<<<<< HEAD
 <Application ts="1636063311241" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
-=======
-<Application ts="1635867528317" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
->>>>>>> 750ca39242882268be5b59a611263c42670fef45
     <lib file="AnimateFX.jar" checksum="4278231058" size="96551"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -22,11 +18,7 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-<<<<<<< HEAD
     <lib file="cocitodoFX-1.0-build-211104_1.jar" checksum="3886116403" size="3811063"/>
-=======
-    <lib file="cocitodoFX-1.0-build-211102_1.jar" checksum="3867989429" size="3799510"/>
->>>>>>> 750ca39242882268be5b59a611263c42670fef45
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -64,11 +56,7 @@
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
     <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
     <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
-<<<<<<< HEAD
     <parameters>1.0-build-211104_1 --myOption=myValue --myOtherOption=myOtherValue</parameters>
-=======
-    <parameters>1.0-build-211102_1 --myOption=myValue --myOtherOption=myOtherValue</parameters>
->>>>>>> 750ca39242882268be5b59a611263c42670fef45
     <cacheDir>USERLIB/CocitodoFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
