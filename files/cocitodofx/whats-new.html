@@ -17,35 +17,58 @@
             color: rgb(11, 127, 194);
             text-align: right;
         }
+
+        .lastChanges {
+            font-size: 13px;
+        }
+
+        .centred {
+            height: 50px;
+            left: 50%;
+            position: absolute;
+            top: 5%;
+            transform: translate(-50%, -50%);
+            width: 600px;
+        }
     </style>
 </head>
 
 <body>
-    <div>
+    <div class="centred">
         <h1 class="title">🎉 Novedades</h1>
-        <p>versión 1.2-build-031001</p>
+        <p>versión 1.2-build-031901</p>
+
+        <h2>✅ Cambios principales</h2>
+        <ul>
+            <li>Solución de errores y mejoras menores.</li>
+            <li>Evitar artículos sin existencia en reporte revisión inventarios.</li>
+            <li>Evitar artículos sin existencia en reporte existencia inventarios.</li>
+            <li>Evitar artículos sin existencia en reporte ubicaciones inventarios.</li>
+            <li>Evitar solicitar recibos de apoyo en el cierre.</li>
+            <li>Agregado formulario para captura pedido de mercancía.</li>
+            <li>Agregado día sábado en rutas.</li>
+            <li>Ahora solo se puede asignar una ruta para un mismo día a los cobradores.</li>
+            <li>Agregado reporte pedido de mercancía.</li>
+            <li>Agregado resumen diario al reporte de supervisor.</li>
+        </ul>
+
+        <h2>🚀 En proceso</h2>
+        <ul>
+            <li>Solicitar eliminar un recibo definitivo desde el sistema.</li>
+            <li>Agregar opción lista de precios por existencia / todos.</li>
+            <li>Evitar que aparezcan recibos de empleados dados de baja en el sistema.</li>
+            <li>Botones centrados en la parte inferior de las ventas.</li>
+        </ul>
+
+        <h5>🕙 Cambios de la ultima actualización</h2>
+            <ul class="lastChanges">
+                <li>Solución de errores generales menores.</li>
+                <li>Se agregó un indicador para el cupón en captura de ventas.</li>
+                <li>Se re-ajustaron las cabeceras para los reportes de recibos.</li>
+                <li>Se rediseño recibo de cobradores.</li>
+                <li>Ahora podra ver las novedades incluidas en las nuevas versiones (como esto 🙂).</li>
+            </ul>
     </div>
-
-    <h2>✅ Correciones</h2>
-    <ul>
-        <li>Solución de errores generales menores.</li>
-        <li>Se agregó un indicador para el cupón en captura de ventas.</li>
-        <li>Se re-ajustaron las cabeceras para los reportes de recibos.</li>
-        <li>Se rediseño recibo de cobradores.</li>
-        <li>Ahora podra ver las novedades incluidas en las nuevas versiones (como esto 🙂).</li>
-    </ul>
-
-    <h2>🚀 En proceso</h2>
-    <ul>
-        <li>Solicitar eliminar un recibo definitivo desde el sistema.</li>
-        <li>Evitar artículos sin existencia en reporte revisión inventarios.</li>
-        <li>Evitar artículos sin existencia en reporte existencia inventarios.</li>
-        <li>Evitar artículos sin existencia en reporte ubicaciones inventarios.</li>
-        <li>Agregar opción lista de precios por existencia / todos.</li>
-        <li>Evitar que aparezcan recibos de empleados dados de baja en el sistema.</li>
-        <li>Evitar solicitar recibos de apoyo en el cierre.</li>
-        <li>Botones centrados en la parte inferior de las ventas.</li>
-    </ul>
 </body>
 
 </html>
