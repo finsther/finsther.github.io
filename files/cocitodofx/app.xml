@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application ts="1648760082795" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+    <lib file="AnimateFX.jar" checksum="4278231058" size="96551"/>
+    <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
+    <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
+    <lib file="batik-bridge.jar" checksum="560058553" size="703757"/>
+    <lib file="batik-constants.jar" checksum="1188375306" size="8433"/>
+    <lib file="batik-css.jar" checksum="2957678128" size="330318"/>
+    <lib file="batik-dom.jar" checksum="2447447516" size="184487"/>
+    <lib file="batik-ext.jar" checksum="173373763" size="10238"/>
+    <lib file="batik-gvt.jar" checksum="3080317991" size="192087"/>
+    <lib file="batik-i18n.jar" checksum="2177932208" size="11466"/>
+    <lib file="batik-parser.jar" checksum="1417878462" size="76875"/>
+    <lib file="batik-script.jar" checksum="1841098809" size="25876"/>
+    <lib file="batik-shared-resources.jar" checksum="2467847557" size="6663"/>
+    <lib file="batik-svg-dom.jar" checksum="876865071" size="232734"/>
+    <lib file="batik-svggen.jar" checksum="2436968271" size="227514"/>
+    <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
+    <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
+    <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
+    <lib file="cocitodoFX-1.2-build-033101.jar" checksum="2893889259" size="4071964"/>
+    <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
+    <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
+    <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
+    <lib file="commons-collections4.jar" checksum="1165026778" size="751914"/>
+    <lib file="commons-digester.jar" checksum="2702119393" size="196768"/>
+    <lib file="commons-io.jar" checksum="2135154044" size="83613"/>
+    <lib file="commons-lang3.jar" checksum="4181716273" size="587402"/>
+    <lib file="commons-logging.jar" checksum="3829945133" size="61829"/>
+    <lib file="commons-text.jar" checksum="2032296454" size="216211"/>
+    <lib file="controlsfx.jar" checksum="2493090305" size="1436095"/>
+    <lib file="ecj.jar" checksum="4281725885" size="2989263"/>
+    <lib file="fontawesomefx-commons.jar" checksum="2467533091" size="20957"/>
+    <lib file="fontawesomefx-emojione.jar" checksum="1609132394" size="3642164"/>
+    <lib file="fontawesomefx-fontawesome.jar" checksum="2344265955" size="136891"/>
+    <lib file="fontawesomefx-icons525.jar" checksum="1507711378" size="110545"/>
+    <lib file="fontawesomefx-materialdesignfont.jar" checksum="3326677978" size="197373"/>
+    <lib file="fontawesomefx-materialicons.jar" checksum="768973390" size="103686"/>
+    <lib file="itext.jar" checksum="62515292" size="1131534"/>
+    <lib file="jasperreports.jar" checksum="2890156312" size="5652010"/>
+    <lib file="javadbf.jar" checksum="1505775846" size="55502"/>
+    <lib file="javax.mail.jar" checksum="2047441797" size="659031"/>
+    <lib file="jfoenix.jar" checksum="1362657171" size="2710207"/>
+    <lib file="log4j.jar" checksum="1818032796" size="489884"/>
+    <lib file="mysql-connector-java.jar" checksum="276365613" size="2462364"/>
+    <lib file="opencsv.jar" checksum="2895834421" size="235612"/>
+    <lib file="poi.jar" checksum="3281112652" size="2701171"/>
+    <lib file="protobuf-java.jar" checksum="2771830397" size="1660960"/>
+    <lib file="report-custom-fonts.jar" checksum="548259507" size="3427634"/>
+    <lib file="slf4j-api.jar" checksum="4018678190" size="41071"/>
+    <lib file="slf4j-simple.jar" checksum="1511922547" size="10905"/>
+    <lib file="xml-apis-ext.jar" checksum="1906727196" size="85686"/>
+    <lib file="xmlgraphics-commons.jar" checksum="3379558069" size="674607"/>
+    <updateText>Actualizando archivos del sistema, espera por favor...</updateText>
+    <updateLabelStyle>-fx-font-weight: BOLD;</updateLabelStyle>
+    <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
+    <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
+    <parameters>1.2-build-033101 --myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <cacheDir>USERLIB/CocitodoFiles</cacheDir>
+    <acceptDowngrade>false</acceptDowngrade>
+    <stopOnUpdateErrors>false</stopOnUpdateErrors>
+    <whatsNewPage>https://finsther.github.io/files/cocitodofx/whats-new.html</whatsNewPage>
+    <lingeringUpdateScreen>false</lingeringUpdateScreen>
+</Application>
