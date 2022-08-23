@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1660771258384" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1661264253625" uri="https://finsther.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="4235838143" size="96538"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -18,7 +18,7 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.4-build-081801.jar" checksum="3703157344" size="4231694"/>
+    <lib file="cocitodoFX-1.4-build-082301.jar" checksum="1543208991" size="4263506"/>
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -62,7 +62,7 @@
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
     <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
     <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
-    <parameters>1.4-build-081801 --myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <parameters>1.4-build-082301 --myOption=myValue --myOtherOption=myOtherValue</parameters>
     <cacheDir>USERLIB/CocitodoFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
